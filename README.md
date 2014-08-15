@@ -1,2 +1,3 @@
-e5_Glassware
+Glassware
 ============
+- GitHub Octocat wearing Google Glass.
