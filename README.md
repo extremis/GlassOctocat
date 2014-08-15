@@ -1,3 +1,3 @@
 Glassware
 ============
-- GitHub Octocat wearing Google Glass.
+- GitHub Octocat wearing Google Glass (.eps)
